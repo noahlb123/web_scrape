@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<link rel="shortcut icon" href="https://dining.uconn.edu/wp-content/themes/cornerstone/favicon.ico" /> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://dining.uconn.edu/xmlrpc.php">
+<title>Housing | Dining Services</title>
+<!--[if lt IE 9]>
+			<script src="https://dining.uconn.edu/wp-content/themes/cornerstone/js/html5shiv/html5shiv.min.js"></script>
+			<script src="https://dining.uconn.edu/wp-content/themes/cornerstone/js/html5shiv/html5shiv-printshiv.min.js"></script>
+			<![endif]--><link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Dining Services &raquo; Feed" href="https://dining.uconn.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Dining Services &raquo; Comments Feed" href="https://dining.uconn.edu/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/dining.uconn.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.3"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='papercite_css-css'  href='https://dining.uconn.edu/wp-content/plugins/papercite/papercite.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='rcpt_style-css'  href='https://dining.uconn.edu/wp-content/plugins/recent_custom_post_type/media/style.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sbi_styles-css'  href='https://dining.uconn.edu/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=5.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://dining.uconn.edu/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='awsm-ead-public-css'  href='https://dining.uconn.edu/wp-content/plugins/embed-any-document/css/embed-public.min.css?ver=2.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='table-sorter-custom-css-css'  href='https://dining.uconn.edu/wp-content/plugins/table-sorter/wp-style.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='uc-admin-theme-css-css'  href='https://dining.uconn.edu/wp-content/plugins/uc-admin-themes/wp-admin.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='site-only-style-css'  href='https://dining.uconn.edu/wp-content/plugins/uc-admin-themes/css/wp-site-only.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ucomm-banner-css-2-css'  href='https://dining.uconn.edu/wp-content/plugins/uconn-banner/uconn_banner/banner.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='uc_people-css-css'  href='https://dining.uconn.edu/wp-content/plugins/uc-people/uc-people.css?ver=1.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='cs-glyph-css'  href='https://dining.uconn.edu/wp-content/global/glyphicons_pro/glyphicons/web/html_css/css/glyphicons.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cs-glyph-filetypes-css'  href='https://dining.uconn.edu/wp-content/global/glyphicons_pro/glyphicons-filetypes/web/html_css/css/glyphicons-filetypes.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cs-glyph-halflings-css'  href='https://dining.uconn.edu/wp-content/global/glyphicons_pro/glyphicons-halflings/web/html_css/css/glyphicons-halflings.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cs-glyph-social-css'  href='https://dining.uconn.edu/wp-content/global/glyphicons_pro/glyphicons-social/web/html_css/css/glyphicons-social.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cs-style-css'  href='https://dining.uconn.edu/wp-content/themes/hale2015/style.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cs-print-css'  href='https://dining.uconn.edu/wp-content/themes/cornerstone/css/print.css?ver=5.5.3' type='text/css' media='print' />
+<link rel='stylesheet' id='simple-social-icons-font-css'  href='https://dining.uconn.edu/wp-content/plugins/simple-social-icons/css/style.css?ver=3.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='uconn-daily-digest-widget-widget-styles-css'  href='https://dining.uconn.edu/wp-content/plugins/uc-dailydigest-widget/css/widget.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='hale2015-blue-css'  href='https://dining.uconn.edu/wp-content/themes/hale2015/css/hale2015-blue.css?ver=5.5.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://dining.uconn.edu/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://dining.uconn.edu/wp-content/plugins/papercite/js/papercite.js?ver=5.5.3' id='papercite-js'></script>
+<script type='text/javascript' src='https://dining.uconn.edu/wp-content/plugins/table-sorter/jquery.tablesorter.min.js?ver=5.5.3' id='table-sorter-js'></script>
+<script type='text/javascript' src='https://dining.uconn.edu/wp-content/plugins/table-sorter/jquery.metadata.js?ver=2.2' id='table-sorter-metadata-js'></script>
+<script type='text/javascript' src='https://dining.uconn.edu/wp-content/plugins/table-sorter/wp-script.js?ver=2.2' id='table-sorter-custom-js-js'></script>
+<script type='text/javascript' src='https://dining.uconn.edu/wp-content/plugins/uc-admin-themes/wp-admin.js?ver=1.0.4' id='uc-admin-theme-js-js'></script>
+<script type='text/javascript' src='https://dining.uconn.edu/wp-content/plugins/uc-misc/uc_misc.js?ver=1.2' id='uc_misc.js-js'></script>
+<script type='text/javascript' src='https://dining.uconn.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://dining.uconn.edu/wp-content/global/bootstrap-3.3.4/javascripts/bootstrap.min.js?ver=5.5.3' id='cs-bootstrap-js-js'></script>
+<script type='text/javascript' src='https://dining.uconn.edu/wp-content/themes/cornerstone/js/cs-modernizr.js?ver=5.5.3' id='cs-modernizr-js'></script>
+<script type='text/javascript' id='cs-js-extra'>
+/* <![CDATA[ */
+var ajax_object = {"ajax_url":"https:\/\/dining.uconn.edu\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://dining.uconn.edu/wp-content/themes/cornerstone/js/cs.js?ver=5.5.3' id='cs-js'></script>
+<script type='text/javascript' src='https://dining.uconn.edu/wp-content/themes/cornerstone/js/header-widgets.js?ver=5.5.3' id='cs-header-widgets-js'></script>
+<script type='text/javascript' src='https://dining.uconn.edu/wp-content/themes/cornerstone/js/stickynav.js?ver=5.5.3' id='stickynav-js'></script>
+<script type='text/javascript' src='https://dining.uconn.edu/wp-content/plugins/simple-social-icons/svgxuse.js?ver=1.1.21' id='svg-x-use-js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://dining.uconn.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://dining.uconn.edu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.3" />
+<link rel='shortlink' href='https://dining.uconn.edu/?p=12256' />
+<link rel="alternate" type="application/json+oembed" href="https://dining.uconn.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdining.uconn.edu%2Fspring-valley-farm%2Fhousing-2%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://dining.uconn.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdining.uconn.edu%2Fspring-valley-farm%2Fhousing-2%2F&#038;format=xml" />
+
+<style type='text/css'>
+.ally-af-launch-container.ally-af-style-flag_small, .ally-af-launch-container.ally-af-style-flag_large {
+    position: fixed;
+    right: auto !important;
+    left: 0;
+}
+.ally-af-launch-container.ally-af-style-flag_small > button, .ally-af-launch-container.ally-af-style-flag_large > button {
+   border-right:1px solid white !important;
+  border-left:none !important;
+}
+    </style>
+
+<!-- UC js plugin -->
+<script type='text/javascript'>
+
+</script>
+
+<!-- Simple Custom CSS -->
+<style type='text/css'>
+/* Enter Your Custom CSS Here */
+#uc-main {
+padding-top:0
+}
+
+#post-5575 h2 {
+display:none
+}
+
+.gallery-item {
+margin:5px
+}
+
+.gallery-columns-3 .gallery-item {
+max-width:30%
+}
+</style>
+<!-- SEO meta tags powered by SmartCrawl https://premium.wpmudev.org/project/smartcrawl-wordpress-seo/ -->
+<link rel="canonical" href="https://dining.uconn.edu/spring-valley-farm/housing-2/" />
+<meta name="description" content="Fall Housing App  - Closed For more information please contact Farm Manager, Julia Cartabiano at Julia.cartabiano@uconn.edu or call 860-508-7706" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://dining.uconn.edu/spring-valley-farm/housing-2/" />
+<meta property="og:title" content="Housing | Dining Services" />
+<meta property="og:description" content="Fall Housing App  - Closed For more information please contact Farm Manager, Julia Cartabiano at Julia.cartabiano@uconn.edu or call 860-508-7706" />
+<meta property="article:published_time" content="2020-07-28T17:24:45" />
+<meta property="article:author" content="Rebecca Desroches" />
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@graph":[{"@type":"Organization","@id":"https:\/\/dining.uconn.edu\/#schema-publishing-organization","url":"https:\/\/dining.uconn.edu","name":"Dining Services"},{"@type":"WebSite","@id":"https:\/\/dining.uconn.edu\/#schema-website","url":"https:\/\/dining.uconn.edu","name":"Dining Services","encoding":"UTF-8","potentialAction":{"@type":"SearchAction","target":"https:\/\/dining.uconn.edu\/search\/{search_term_string}\/","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https:\/\/dining.uconn.edu\/spring-valley-farm\/housing-2\/#schema-webpage","isPartOf":"https:\/\/dining.uconn.edu\/#schema-website","author":{"@type":"Person","@id":"https:\/\/dining.uconn.edu\/author\/red19005\/#schema-author","name":"Rebecca Desroches","url":"https:\/\/dining.uconn.edu\/author\/red19005\/"},"publisher":{"@id":"https:\/\/dining.uconn.edu\/#schema-publishing-organization"},"dateModified":"2020-07-28T17:41:32","datePublished":"2020-07-28T17:24:45","headline":"Housing | Dining Services","description":"Fall Housing App\u00a0 - Closed For more information please contact Farm Manager, Julia Cartabiano at\u00a0Julia.cartabiano@uconn.edu or call 860-508-7706","name":"Housing","url":"https:\/\/dining.uconn.edu\/spring-valley-farm\/housing-2\/"}]}</script>
+<!-- /SEO -->
+					<!-- Google Analytics tracking code output by Beehive Analytics Pro -->
+						<script async src="https://www.googletagmanager.com/gtag/js?id=UA-45906954-31&l=beehiveDataLayer"></script>
+		<script>
+						window.beehiveDataLayer = window.beehiveDataLayer || [];
+			function beehive_ga() {beehiveDataLayer.push(arguments);}
+			beehive_ga('js', new Date())
+						beehive_ga('config', 'UA-45906954-31', {
+				'anonymize_ip': false,
+				'allow_google_signals': false,
+			})
+						beehive_ga('config', 'UA-42833827-1', {
+				'anonymize_ip': false,
+				'allow_google_signals': false,
+			})
+					</script>
+		<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><meta name="twitter:partner" content="tfwp"><link rel="icon" href="https://dining.uconn.edu/wp-content/uploads/sites/125/2017/05/cropped-siteicon-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://dining.uconn.edu/wp-content/uploads/sites/125/2017/05/cropped-siteicon-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://dining.uconn.edu/wp-content/uploads/sites/125/2017/05/cropped-siteicon-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://dining.uconn.edu/wp-content/uploads/sites/125/2017/05/cropped-siteicon-270x270.jpg" />
+<!--[if lt IE 9]>
+			<script src="https://dining.uconn.edu/wp-content/themes/cornerstone/js/respond.min.js"></script>
+			<![endif]-->
+<meta name="twitter:card" content="summary"><meta name="twitter:title" content="Housing">
+<!--[if !IE]><!--><script>
+if (/*@cc_on!@*/false) {
+    document.documentElement.className+=' ie10';
+}
+</script><!--<![endif]-->
+</head>
+<body class="page-template-default page page-id-12256 page-child parent-pageid-7160 group-blog">
+<!--[if lt IE 7]>      <div class="ie lte9 lte8 lte7 lte6"> <![endif]-->
+<!--[if IE 7]>         <div class="ie ie7 lte9 lte8 lte7"> <![endif]-->
+<!--[if IE 8]>         <div class="ie ie8 lte9 lte8"> <![endif]-->
+<!--[if IE 9]>         <div class="ie ie9 lte9"> <![endif]-->
+<nav id="skiplinks">
+	<a href="#nav-wrapper">Skip to Navigation</a>
+	<a href="#uconn-search">Skip to UConn Search</a>
+	<a href="#content">Skip to Content</a>
+	</nav>
+<noscript><p>Our websites may use cookies to personalize and enhance your experience. By continuing without changing your cookie settings, you agree to this collection. For more information, please see our <a href="https://privacy.uconn.edu/university-website-notice/" target="_blank">University Websites Privacy Notice</a>.</p></noscript>
+	
+<style media="screen">
+/*    #uconn-az-tooltip{
+        z-index: 99999 !important;
+    }
+    
+    #uconn-search-tooltip{
+        z-index: 99999 !important;
+    }*/
+    
+    #search-popup{
+        z-index: 99999;
+    }
+
+    #a-z-popup {
+        z-index: 99999;
+    }
+
+    #uconn-banner .row-container {
+        max-width: 1200px !important;
+    }
+</style>
+
+<div id="uc-header">
+    <div id="uconn-banner" class="alternative no-js">
+        <div id="uconn-header-container" class="blue">
+            <div class="row-container">
+                <div class="row-fluid">
+                    <div id="home-link-container">
+                        <a id="home-link" href="https://uconn.edu/">
+                            <span id="wordmark" aria-hidden="true">UConn</span>
+                        </a>
+                        <a id="home-link" href="https://uconn.edu/">
+                            <span class="no-css">University of Connecticut school of </span>
+
+                            <span id="university-of-connecticut">
+                                University of Connecticut                            </span>
+                                                    </a>
+                    </div>
+
+                    <div id="button-container">
+                        <div class="icon-container" id="icon-container-search">
+                                                            <a id="uconn-search" class="btn" href="https://uconn.edu/search">
+                                    <span class="no-css">Search University of Connecticut</span>
+
+                                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="20" viewBox="0 0 32 32" aria-hidden="true" class="banner-icon">
+                                        <title>Search UConn</title>
+                                        <path d="M28.072 24.749l-6.046-6.046c0.912-1.499 1.437-3.256 1.437-5.139 0-5.466-4.738-10.203-10.205-10.203-5.466 0-9.898 4.432-9.898 9.898 0 5.467 4.736 10.205 10.203 10.205 1.818 0 3.52-0.493 4.984-1.349l6.078 6.080c0.597 0.595 1.56 0.595 2.154 0l1.509-1.507c0.594-0.595 0.378-1.344-0.216-1.938zM6.406 13.258c0-3.784 3.067-6.853 6.851-6.853 3.786 0 7.158 3.373 7.158 7.158s-3.067 6.853-6.853 6.853-7.157-3.373-7.157-7.158z"></path>
+                                    </svg>
+                                </a>
+                                <div id="uconn-search-tooltip" style="z-index: 99999 !important"></div>
+                                                    </div>
+
+                        <div class="icon-container" id="icon-container-az">
+                                                            <a id="uconn-az" class="btn" href="https://uconn.edu/az">
+                                    <span class="no-css">A to Z Index</span>
+
+                                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="20" viewBox="0 0 32 32" aria-hidden="true" class="banner-icon">
+                                        <title>UConn A to Z Index</title>
+                                        <path d="M5.345 8.989h3.304l4.944 13.974h-3.167l-0.923-2.873h-5.147l-0.946 2.873h-3.055l4.989-13.974zM5.152 17.682h3.579l-1.764-5.499-1.815 5.499zM13.966 14.696h5.288v2.56h-5.288v-2.56zM20.848 20.496l7.147-9.032h-6.967v-2.474h10.597v2.341l-7.244 9.165h7.262v2.466h-10.798v-2.466h0.004z">
+                                        </path>
+                                    </svg>
+                                </a>
+                                <div id="uconn-az-tooltip" style="z-index: 99999 !important"></div>
+                                                    </div>
+                                            </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header " role="banner">
+                                    <div id="site-title" class="hidden-xs">
+                            <div class="container">
+                                                                        <div class="row">
+                                            <div class="col-sm-8">
+                                                    <div class="site-branding" id="uc-site-header">
+                                                            <h1 id="uc-site-title"><a href="https://dining.uconn.edu/" rel="home">Dining Services</a></h1>                                                    </div>
+                                            </div>
+
+                                            <div class="col-sm-4 header-widget-area">
+                            <div class="searchform"><form action="https://dining.uconn.edu/" method="get" class="form-inline" role="form"><div class="form-group"><fieldset><legend class="sr-only">Search this Site</legend><label for="searchfield-1" class="sr-only">Search in https://dining.uconn.edu/></label><input type="text" name="s" id="searchfield-1" value="" class="form-control search" title="Search this site... " placeholder="Search this site... " /><button type="submit" class="btn btn-default" title="Search"><i class="glyphicon glyphicon-search"></i><span class="sr-only">Search</span></button></fieldset></div></form></div>                             <!-- this is hidden when no widget is present -->
+                                            </div>
+                                    </div>
+                            </div>
+                    </div>
+                		<div id="nav-wrapper">
+			
+				
+<div id="nav-dropdown">
+	<div id="dropdown-wrapper">
+		<nav id="dropdown" class="container">
+			<nav id="site-navigation" class="navbar navbar-default" style="min-height:0" role="navigation">
+                                                                        <div class="navbar-header">
+                                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#primary-nav">
+                                                        <span class="sr-only">Toggle navigation</span>
+                                                        <span class="menu-icon">
+                                                                <span class="icon-bar"></span>
+                                                                <span class="icon-bar"></span>
+                                                                <span class="icon-bar"></span>
+                                                        </span>
+                                                        <span class="menu-label">Menu</span>
+                                                </button>
+                                                <a class="navbar-brand visible-xs" href="https://dining.uconn.edu/">Dining Services</a>
+                                        </div>
+                                				<a class="skip-link screen-reader-text sr-only" href="#content">Skip to content</a>
+				<div class="collapse navbar-collapse" id="primary-nav">
+					<ul id="menu-top-nav" class="nav navbar-nav "><li><a href="https://dining.uconn.edu">Home</a></li><li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/news/">News</a></li><li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/greening-efforts/">Greening Efforts</a></li><li id="menu-item-3043" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown"><a href="https://dining.uconn.edu/meal-plan/" class="dropdown-toggle" data-toggle="dropdown">Meal Plans<b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/meal-plans/">Meal Plans &amp; Pricing</a></li>	<li id="menu-item-11429" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/bag-meal-requests/">Bag Meal Requests</a></li>	<li id="menu-item-452" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/faq/">FAQ</a></li>	<li id="menu-item-12534" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/meal-plan/change-your-plan/">Change Your Plan</a></li><!--.dropdown-->
+</ul>
+</li><li id="menu-item-10614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown"><a href="https://dining.uconn.edu/food-allergies/" class="dropdown-toggle" data-toggle="dropdown">Food Allergies<b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/dietary-restrictions-preferences/">Dietary Restrictions &amp; Preferences</a></li>	<li id="menu-item-637" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/gluten-free-dining/">Gluten-Friendly Dining</a></li><!--.dropdown-->
+</ul>
+</li><li id="menu-item-68" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Resident Dining<b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-6037" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/welcome/">Welcome to UConn Dining</a></li>	<li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/locations/">Dining Locations</a></li>	<li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/hours/">Hours</a></li>	<li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/grab-go/">Grab &amp; Go</a></li>	<li id="menu-item-6192" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/late-night/">Late Night Dining</a></li>	<li id="menu-item-593" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/social-media/">Social Media</a></li>	<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/policies/">Additional Services</a></li><!--.dropdown-->
+</ul>
+</li><li id="menu-item-71" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Menus &amp; Nutrition<b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/nutrition/">Daily Menus &amp; Nutrition Information</a></li>	<li id="menu-item-5076" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/healthy-eating-at-uconn/">Healthy Eating at UConn</a></li><!--.dropdown-->
+</ul>
+</li><li id="menu-item-69" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Restaurants &amp; Cafes<b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-7899" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/bistro/">Bistro On Union Street</a></li>	<li id="menu-item-10511" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/earth-wok-and-fire/">Earth, Wok &amp; Fire</a></li>	<li id="menu-item-3040" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/foodforthought/">Food For Thought Food Truck</a></li>	<li id="menu-item-6213" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/jitters/">Jitters</a></li>	<li id="menu-item-12844" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/mango/">Mango</a></li>	<li id="menu-item-630" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/one-plate-two-plates/">One Plate, Two Plates</a></li>	<li id="menu-item-107" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/uc-cafes/">UC Cafes</a></li>	<li id="menu-item-13883" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/uconn-dairy-bar/">UConn Dairy Bar</a></li>	<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/uconndairybartoo/">UConn Dairy Bar Too</a></li>	<li id="menu-item-2941" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/uconndairybaricecreamtruck/">UConn Dairy Bar Ice Cream Truck</a></li>	<li id="menu-item-13114" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/union-central-exchange-c-store/">Union Central Exchange C-Store</a></li>	<li id="menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/union-street-market/">Union Street Market</a></li><!--.dropdown-->
+</ul>
+</li><li id="menu-item-331" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/bakery/">Bakery</a></li><li id="menu-item-7126" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/university-catering/">University Catering</a></li><li id="menu-item-7745" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor"><a href="https://dining.uconn.edu/spring-valley-farm/">Spring Valley Student Farm</a></li><li id="menu-item-764" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Media<b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-332" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/memberships-awards/">Memberships &amp; Awards</a></li>	<li id="menu-item-501" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/digital-advertising/">Digital Advertising &amp; Foyer Tabling Information</a></li>	<li id="menu-item-815" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/ucuisine/">UCuisine</a></li>	<li id="menu-item-4136" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/farm-fresh-market/">Farm Fresh Market</a></li>	<li id="menu-item-9429" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/ucann-cook-camps/">UCann Cook Camps</a></li>	<li id="menu-item-770" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/videos/">Videos</a></li>	<li id="menu-item-4790" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/recipes/">Recipes</a></li>	<li id="menu-item-10549" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/foodpro-2019-photo-gallery/">FoodPro 2019 Photo Gallery</a></li><!--.dropdown-->
+</ul>
+</li><li id="menu-item-979" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/employment/">Employment</a></li><li id="menu-item-516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Contact Us<b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-683" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/questions-and-comments/">Questions and Comments</a></li>	<li id="menu-item-167" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/contact-us/">Contact Us</a></li><!--.dropdown-->
+</ul>
+</li><li id="menu-item-7142" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://dining.uconn.edu/about-us/">About Us</a></li></ul>					<div class="visible-xs-block">
+					<div class="navbar-form navbar-right">
+						<div class="searchform"><form action="https://dining.uconn.edu/" method="get" class="form-inline" role="form"><div class="form-group"><fieldset><legend class="sr-only">Search this Site</legend><label for="searchfield-2" class="sr-only">Search in https://dining.uconn.edu/></label><input type="text" name="s" id="searchfield-2" value="" class="form-control search" title="Search this site... " placeholder="Search this site... " /><button type="submit" class="btn btn-default" title="Search"><i class="glyphicon glyphicon-search"></i><span class="sr-only">Search</span></button></fieldset></div></form></div>					</div>
+					</div>
+				</div>
+			</nav>
+		</nav>
+	</div>
+</div>
+<!-- #site-navigation -->			</div>
+	</header>
+	<!-- #masthead -->	
+	<div id="content" class="site-content">
+		<div class="container"><div id="page-page">
+						<div class="row">
+				<div class="col-sm-12">
+					<div id="primary" class="content-area subpage">
+                    	<main id="main" class="site-main" role="main">
+                        							
+
+<article id="post-12256" class="clearfix post-12256 page type-page status-publish hentry">
+	<header class="entry-header">
+		<h1 class="entry-title">Housing</h1>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Fall Housing App  &#8211; <strong>Closed</strong></p>
+<p>For more information please contact Farm Manager, Julia Cartabiano</p>
+<p>at<span> </span><a href="mailto:Julia.cartabiano@uconn.edu">Julia.cartabiano@uconn.edu</a></p>
+<p>or call 860-508-7706</p>
+			</div><!-- .entry-content -->
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+													</main>
+					</div>
+				</div>
+							</div>
+			</div>
+	
+	</div><!-- .container-->
+	</div><!-- #content -->
+	<div id="footers">
+		<footer id="mega-footer" class="widget-area">
+	<div class="container">
+		<div class="row">
+			<aside class="col-sm-12 "><div id="black-studio-tinymce-2" class="widget_black_studio_tinymce widget"><div class="textwidget"><p style="text-align: center;"><span style="text-align: center;">Department of Dining Services  |  3384 Towers Loop Rd., U-4071 |  Storrs, CT 06269-4071  |  Main Office: 860-486-3128  |  Fax: 860-486-0473  |  <a title="Contact Us" href="http://dining.uconn.edu/contact-us/">Contact Us </a></span></p>
+</div> </div></aside>		</div>
+	</div>
+</footer>		<footer id="footer" class="site-footer" role="contentinfo">
+			<div class="container">
+				<ul id="uc-footer-links" class="clearfix">
+											<li>
+							&copy; <a href="http://uconn.edu">University of Connecticut</a>
+						</li>
+						<li>
+							<a href="http://uconn.edu/disclaimers-privacy-copyright/">Disclaimers, Privacy &amp; Copyright</a>
+						</li>
+                        <li>
+							<a href="https://accessibility.uconn.edu/">Accessibility</a>
+						</li>
+										<li>
+						<a href="https://dining.uconn.edu/wp-admin/">Webmaster Login</a>
+					</li>
+					<li id="menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168"><a href="https://dining.uconn.edu/contact-us/">Contact Us</a></li>
+				</ul>
+			</div>
+		</footer>
+	</div><!-- #footers -->
+</div><!-- #page -->
+<!--[if lte IE 9]></div><![endif]-->
+<!--
+    Ally Website Integration Script.
+ 
+    "data-ally-af-style" can be one of the following values to customize the look and feel:
+        - flag_small
+        - flag_large
+        - bar_bottom
+-->
+<script
+  data-ally-loader
+  data-ally-platform-name="web"
+  data-ally-client-id="7085"
+  data-ally-af-style="flag_small"
+  src="https://prod.ally.ac/integration/api/ally.ui.js">
+</script>
+
+<!-- Custom Feeds for Instagram JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://dining.uconn.edu/wp-admin/admin-ajax.php";
+
+</script>
+<style type="text/css" media="screen"></style><script type='text/javascript' src='https://dining.uconn.edu/wp-content/plugins/embed-any-document/js/pdfobject.min.js?ver=2.6.1' id='awsm-ead-pdf-object-js'></script>
+<script type='text/javascript' id='awsm-ead-public-js-extra'>
+/* <![CDATA[ */
+var eadPublic = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://dining.uconn.edu/wp-content/plugins/embed-any-document/js/embed-public.min.js?ver=2.6.1' id='awsm-ead-public-js'></script>
+<script type='text/javascript' src='https://dining.uconn.edu/wp-content/themes/cornerstone/js/navigation.js?ver=20120206' id='cs-navigation-js'></script>
+<script type='text/javascript' src='https://dining.uconn.edu/wp-content/themes/cornerstone/js/skip-link-focus-fix.js?ver=20130115' id='cs-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='https://dining.uconn.edu/wp-includes/js/wp-embed.min.js?ver=5.5.3' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://dining.uconn.edu/wp-content/plugins/uc-misc/cookie-notification.js?ver=5.5.3' id='cookie-notification.js-js'></script>
+<script type='text/javascript' src='https://dining.uconn.edu/wp-content/plugins/uconn-banner/js/uc-modernizr.js?ver=5.5.3' id='uc-modernizr-js'></script>
+<script type='text/javascript' src='https://dining.uconn.edu/wp-content/plugins/uconn-banner/uconn_banner/js/banner.js?ver=1.0' id='bannerjs-js'></script>
+
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced 
+
+Served from: dining.uconn.edu @ 2020-12-07 16:31:13 by W3 Total Cache
+-->
